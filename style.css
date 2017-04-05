@@ -1,0 +1,19 @@
+
+body {
+  border: 2px dotted blue;
+  display: block;
+  margin: 8px;
+  padding:10px;
+}
+li {border: 1px dotted orange ;
+display: block;
+margin: 10px ;
+padding: 11px;}
+h1 {border: 1px dotted green ;
+display: block;
+margin: 10px ;
+padding: 11px;}
+h2 {border: 1px dotted yellow;;
+display: block;
+margin: 10px ;
+padding: 11px;}
