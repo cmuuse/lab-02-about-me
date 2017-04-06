@@ -1,19 +1,46 @@
 
-body {
-  border: 2px dotted blue;
+body {background-color: #c8c8c8;
+  text-align:center;
+
+  border: 3px solid blue;
   display: block;
-  margin: 8px;
-  padding:10px;
+  margin: 90px;
+  padding:55px;
+  width: 650px;
+
 }
-li {border: 1px dotted orange ;
+h1 {border: 3px solid green;
 display: block;
-margin: 10px ;
-padding: 11px;}
-h1 {border: 1px dotted green ;
+margin: 0px ;
+padding: 1px;
+color: blue;
+width: 300px;}
+
+h2 {border: 3px solid blue;
 display: block;
-margin: 10px ;
-padding: 11px;}
-h2 {border: 1px dotted yellow;;
-display: block;
-margin: 10px ;
-padding: 11px;}
+margin: 1px ;
+padding: 1px;
+width: 300px;}
+
+p.one  {border: 3px double blue;
+width:300px; }
+
+p.two {border: 3px double blue;
+width:300px; }
+
+li.one {border: 3px dotted orange ;
+  margin: auto;
+width: 300px;}
+
+li.one {border: 3px solid grey ;margin: auto;
+width:300px;}
+li.two {border: 3px groove grey;margin: auto;
+width:300px;}
+li.three {border: 3px inset grey ;margin: auto;
+width:300px;}
+li.four {border: 3px double grey;margin: auto;
+width:300px; }
+li.five {border: 3px double grey;margin: auto;
+width:300px; }
+li.six{border: 3px double grey;margin: auto;
+width:300px; }
